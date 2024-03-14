@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhpZXplNjV4enF0dTRiNXBlaHl1bWY3c2NpNmlxbGxqMG05MGl4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DXsNXjpBUomgYQXCiG/giphy.gif" width="200">
+  <h1>¡Hi! I'm zShisui 🐈</h1>
+</div>
 
-<!--
-**zShisui/zShisui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bienvenido a mi perfil de GitHub 👋
 
-Here are some ideas to get you started:
+¡Hola! Soy zShisui, desarrollador FrontEnd y aspirante a FullStack. Estudiante entusiasta de Platzi,Aquí encontrarás una recopilación de los proyectos y cursos que he realizado en la plataforma.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+- 👨‍💻 Desarrollador de [tu área de interés].
+- 🎓 Aprendiendo constantemente en Platzi.
+- 🌱 Apasionado por [temas específicos].
+
+¡Gracias por visitar mi perfil!
