@@ -5,12 +5,12 @@
 
 # Bienvenido a mi perfil de GitHub 👋
 
-¡Hola! Soy zShisui, desarrollador FrontEnd y aspirante a FullStack. Estudiante entusiasta de Platzi,Aquí encontrarás una recopilación de los proyectos y cursos que he realizado en la plataforma.
+¡Hola! Soy zShisui. Estudiante entusiasta de Platzi,Aquí encontrarás una recopilación de los proyectos y cursos que he realizado en la plataforma.
 
 ## Sobre mí
 
-- 👨‍💻 Desarrollador de [tu área de interés].
+- 👨‍💻 Desarrollador FrontEnd y aspirante a FullStack.
 - 🎓 Aprendiendo constantemente en Platzi.
-- 🌱 Apasionado por [temas específicos].
+- 🌱 Apasionado por Jugar y divertirme aprendiendo a programar.
 
 ¡Gracias por visitar mi perfil!
